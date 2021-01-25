@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: 602bc426d7346cd4fb84207f90fea96d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: mpm f18 Apple iMac 27 display
+    100002: mpm f18 Apple iMac 27 leg
+    100004: //RootNode
+    400000: mpm f18 Apple iMac 27 display
+    400002: mpm f18 Apple iMac 27 leg
+    400004: //RootNode
+    2100000: rubber
+    2100002: aluminium
+    2100004: white plastic
+    2100006: metal
+    2100008: yellow metal
+    2100010: display
+    2100012: glass frame
+    2100014: apple
+    2100016: camera
+    2100018: glass
+    2300000: mpm f18 Apple iMac 27 display
+    2300002: mpm f18 Apple iMac 27 leg
+    3300000: mpm f18 Apple iMac 27 display
+    3300002: mpm f18 Apple iMac 27 leg
+    4300000: mpm f18 Apple iMac 27 leg
+    4300002: mpm f18 Apple iMac 27 display
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: pc(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mpm f18 Apple iMac 27 leg
+      parentName: pc(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.00000019949603, y: 0.7071068, z: 0.7071068, w: -0.00000019949603}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mpm f18 Apple iMac 27 display
+      parentName: pc(Clone)
+      position: {x: -0.000000003732776, y: 0.29355648, z: -0.006139725}
+      rotation: {x: -0.000000029757988, y: 0.99549675, z: -0.09479592, w: -0.00000031250283}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: 6a0b161e2764db8419624211bd901cc8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Frame_01
+    100002: Frame_01_2
+    100004: Frame_02
+    100006: Frame_02_2
+    100008: Fused_Gaskets_01
+    100010: Fused_Gaskets_02
+    100012: Fused_Gaskets_03
+    100014: Fused_Gaskets_04
+    100016: Grip
+    100018: Grip_01
+    100020: Grip_02
+    100022: Hinge_01
+    100024: Hinge_02
+    100026: Lock_01_1
+    100028: Lock_01_2
+    100030: Lock_02
+    100032: Lock_02_1
+    100034: Lock_02_1_2
+    100036: Lock_02_2
+    100038: Lock_03
+    100040: Objekt_01
+    100042: Objekt_02
+    100044: Thermal_Glass_01
+    100046: Thermal_Glass_02
+    100048: Thermal_Glass_03
+    100050: Window
+    100052: //RootNode
+    100054: "\u0412\u044C\u044E\u043F\u043E\u0440\u0442_CINEMA_4D"
+    400000: Frame_01
+    400002: Frame_01_2
+    400004: Frame_02
+    400006: Frame_02_2
+    400008: Fused_Gaskets_01
+    400010: Fused_Gaskets_02
+    400012: Fused_Gaskets_03
+    400014: Fused_Gaskets_04
+    400016: Grip
+    400018: Grip_01
+    400020: Grip_02
+    400022: Hinge_01
+    400024: Hinge_02
+    400026: Lock_01_1
+    400028: Lock_01_2
+    400030: Lock_02
+    400032: Lock_02_1
+    400034: Lock_02_1_2
+    400036: Lock_02_2
+    400038: Lock_03
+    400040: Objekt_01
+    400042: Objekt_02
+    400044: Thermal_Glass_01
+    400046: Thermal_Glass_02
+    400048: Thermal_Glass_03
+    400050: Window
+    400052: //RootNode
+    400054: "\u0412\u044C\u044E\u043F\u043E\u0440\u0442_CINEMA_4D"
+    2000000: "\u0412\u044C\u044E\u043F\u043E\u0440\u0442_CINEMA_4D"
+    2100000: No Name
+    2300000: Frame_01_2
+    2300002: Frame_02_2
+    2300004: Fused_Gaskets_01
+    2300006: Fused_Gaskets_02
+    2300008: Fused_Gaskets_03
+    2300010: Fused_Gaskets_04
+    2300012: Grip_01
+    2300014: Grip_02
+    2300016: Hinge_01
+    2300018: Hinge_02
+    2300020: Lock_01_1
+    2300022: Lock_01_2
+    2300024: Lock_02
+    2300026: Lock_02_1
+    2300028: Lock_02_1_2
+    2300030: Lock_02_2
+    2300032: Lock_03
+    2300034: Objekt_01
+    2300036: Objekt_02
+    2300038: Thermal_Glass_01
+    2300040: Thermal_Glass_02
+    2300042: Thermal_Glass_03
+    3300000: Frame_01_2
+    3300002: Frame_02_2
+    3300004: Fused_Gaskets_01
+    3300006: Fused_Gaskets_02
+    3300008: Fused_Gaskets_03
+    3300010: Fused_Gaskets_04
+    3300012: Grip_01
+    3300014: Grip_02
+    3300016: Hinge_01
+    3300018: Hinge_02
+    3300020: Lock_01_1
+    3300022: Lock_01_2
+    3300024: Lock_02
+    3300026: Lock_02_1
+    3300028: Lock_02_1_2
+    3300030: Lock_02_2
+    3300032: Lock_03
+    3300034: Objekt_01
+    3300036: Objekt_02
+    3300038: Thermal_Glass_01
+    3300040: Thermal_Glass_02
+    3300042: Thermal_Glass_03
+    4300000: Lock_03
+    4300002: Lock_01_2
+    4300004: Lock_01_1
+    4300006: Lock_02_2
+    4300008: Lock_02_1
+    4300010: Hinge_02
+    4300012: Hinge_01
+    4300014: Grip_01
+    4300016: Grip_02
+    4300018: Objekt_02
+    4300020: Objekt_01
+    4300022: Thermal_Glass_03
+    4300024: Thermal_Glass_02
+    4300026: Thermal_Glass_01
+    4300028: Fused_Gaskets_03
+    4300030: Fused_Gaskets_02
+    4300032: Fused_Gaskets_01
+    4300034: Frame_02_2
+    4300036: Fused_Gaskets_04
+    4300038: Lock_02_1_2
+    4300040: Lock_02
+    4300042: Frame_01_2
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Window
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Frame_02
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lock_01_1
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Frame_01
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lock_02
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lock_02_1_2
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fused_Gaskets_04
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Window4(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u0412\u044C\u044E\u043F\u043E\u0440\u0442_CINEMA_4D"
+      parentName: Window4(Clone)
+      position: {x: 0.7245011, y: 1.4537865, z: -1.1681825}
+      rotation: {x: 0.2938134, y: -0.25577414, z: 0.081920065, w: 0.91735625}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Window
+      parentName: Window4(Clone)
+      position: {x: -0.0000016457235, y: 0.30407372, z: -0.0000032933883}
+      rotation: {x: -0.0000003060185, y: 0.7071068, z: 0.7071068, w: 0.0000003060185}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Frame_02
+      parentName: Window
+      position: {x: -0.27978024, y: -0.03601276, z: -0.00000063057945}
+      rotation: {x: -7.567241e-14, y: -0.0000004326472, z: 0.0000004872019, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Lock_03
+      parentName: Frame_02
+      position: {x: 0.27520177, y: 0.34165713, z: -0.022415185}
+      rotation: {x: -0.000000523506, y: 1, z: 5.156817e-14, w: -0.00000032279164}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Lock_01_2
+      parentName: Frame_02
+      position: {x: 0.5143141, y: 0.030416457, z: -0.16783981}
+      rotation: {x: -0.50000024, y: -0.4999998, z: -0.4999998, w: 0.50000024}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Lock_01_1
+      parentName: Frame_02
+      position: {x: 0.51620847, y: 0.030439641, z: -0.17218521}
+      rotation: {x: -0.50000024, y: -0.4999998, z: -0.4999998, w: 0.50000024}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Lock_02_2
+      parentName: Frame_02
+      position: {x: 0.5143144, y: 0.030416457, z: 0.16775285}
+      rotation: {x: -0.50000024, y: -0.4999998, z: -0.4999998, w: 0.50000024}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Lock_02_1
+      parentName: Frame_02
+      position: {x: 0.51620877, y: 0.030439641, z: 0.16340744}
+      rotation: {x: -0.50000024, y: -0.4999998, z: -0.4999998, w: 0.50000024}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hinge_02
+      parentName: Frame_02
+      position: {x: -0.000030808573, y: 0.0000010408694, z: -0.21649654}
+      rotation: {x: -0.7071068, y: 0.0000002751172, z: 0.0000002751172, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hinge_01
+      parentName: Frame_02
+      position: {x: -0.000030433479, y: 0.000001040869, z: 0.2167351}
+      rotation: {x: -0.7071068, y: 0.0000002751172, z: 0.0000002751172, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Grip
+      parentName: Frame_02
+      position: {x: 0.5143021, y: -0.043676354, z: -0.04062938}
+      rotation: {x: 0.7071068, y: 0.00000026034425, z: -0.00000026034425, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Grip_01
+      parentName: Grip
+      position: {x: -0.00051567017, y: 0.06176642, z: -0.023797207}
+      rotation: {x: -0.000000030908623, y: 0.7071068, z: -0.7071068, w: -0.000000030908623}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Grip_02
+      parentName: Grip
+      position: {x: 1.8047785e-16, y: -4.5119463e-17, z: 1.3535839e-16}
+      rotation: {x: 5.04871e-29, y: -2.220447e-16, z: 9.907218e-24, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Objekt_02
+      parentName: Frame_02
+      position: {x: 0.27970234, y: 0.018527793, z: 0.000030480083}
+      rotation: {x: -1.9953052e-13, y: 0.00000032279164, z: -0.0000002564775, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Objekt_01
+      parentName: Frame_02
+      position: {x: 0.27970237, y: 0.0315735, z: 0.000030480083}
+      rotation: {x: -1.9953052e-13, y: 0.00000032279164, z: -0.0000002564775, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Thermal_Glass_03
+      parentName: Frame_02
+      position: {x: 0.27967495, y: 0.011970123, z: 0.00015467922}
+      rotation: {x: -1.9953052e-13, y: 0.00000032279164, z: -0.0000002564775, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Thermal_Glass_02
+      parentName: Frame_02
+      position: {x: 0.27967495, y: 0.025065994, z: 0.00015467922}
+      rotation: {x: -1.9953052e-13, y: 0.00000032279164, z: -0.0000002564775, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Thermal_Glass_01
+      parentName: Frame_02
+      position: {x: 0.27967498, y: 0.038110636, z: 0.00015467922}
+      rotation: {x: -1.9953052e-13, y: 0.00000032279164, z: -0.0000002564775, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Fused_Gaskets_03
+      parentName: Frame_02
+      position: {x: 0.27977782, y: 0.007976868, z: 0.00000072560056}
+      rotation: {x: 0.00000032279164, y: 1.6882493e-13, z: 1, w: 0.0000001610084}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Fused_Gaskets_02
+      parentName: Frame_02
+      position: {x: 0.2799763, y: 0.009484177, z: -0.0001303915}
+      rotation: {x: -1.9953052e-13, y: 0.00000032279164, z: -0.0000002564775, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Fused_Gaskets_01
+      parentName: Frame_02
+      position: {x: 0.27997634, y: 0.043179184, z: -0.0001303915}
+      rotation: {x: -1.9953052e-13, y: 0.00000032279164, z: -0.0000002564775, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Frame_02_2
+      parentName: Frame_02
+      position: {x: 0.27977946, y: 0.023628438, z: -4.5119463e-17}
+      rotation: {x: -1.9953052e-13, y: 0.00000032279164, z: -0.0000002564775, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Frame_01
+      parentName: Window
+      position: {x: -7.5500886e-18, y: -4.5119463e-17, z: 0}
+      rotation: {x: -3.1512623e-13, y: -0.0000006610055, z: 0.0000004771281, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Fused_Gaskets_04
+      parentName: Frame_01
+      position: {x: -0.000005628433, y: 0.018023096, z: 0.000014381685}
+      rotation: {x: -6.0473646e-17, y: 2.2204463e-16, z: 1, w: -0.00000019641855}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Lock_02_1_2
+      parentName: Frame_01
+      position: {x: 0.24033709, y: -0.005593644, z: -0.1678466}
+      rotation: {x: 0.7071068, y: 0.00000035246842, z: -0.00000035246842, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Lock_02
+      parentName: Frame_01
+      position: {x: 0.2403375, y: -0.005593644, z: 0.16774605}
+      rotation: {x: 0.7071068, y: 0.00000035246842, z: -0.00000035246842, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Frame_01_2
+      parentName: Frame_01
+      position: {x: 4.451292e-17, y: -4.5119463e-17, z: -4.5119463e-17}
+      rotation: {x: -1.009742e-28, y: -1.5003205e-23, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

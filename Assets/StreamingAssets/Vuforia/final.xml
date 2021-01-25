@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="b3" size="10.000000 7.071155" />
+    <ImageTarget name="22" size="10.000000 7.071155" />
+    <ImageTarget name="ash" size="10.000000 7.071155" />
+    <ImageTarget name="rocks" size="10.000000 7.071745" />
+    <ImageTarget name="3" size="10.000000 14.141961" />
+    <ImageTarget name="6" size="10.000000 7.071155" />
+    <ImageTarget name="b" size="10.000000 7.071155" />
+    <ImageTarget name="bw" size="10.000000 7.086869" />
+    <ImageTarget name="colors" size="10.000000 7.071155" />
+    <ImageTarget name="ox" size="10.000000 14.141961" />
+    <ImageTarget name="files" size="10.000000 14.141961" />
+    <ImageTarget name="drawer" size="10.000000 14.141961" />
+    <ImageTarget name="chair3" size="10.000000 7.073269" />
+    <ImageTarget name="chair" size="10.000000 7.072335" />
+    <ImageTarget name="rgb" size="10.000000 14.139601" />
+  </Tracking>
+</QCARConfig>

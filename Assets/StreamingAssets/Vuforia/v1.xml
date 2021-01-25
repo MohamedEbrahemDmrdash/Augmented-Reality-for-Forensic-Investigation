@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="download1_scaled" size="10.000000 7.014925" />
+    <ImageTarget name="window" size="10.000000 13.333333" />
+    <ImageTarget name="pc" size="10.000000 17.272728" />
+    <ImageTarget name="Oxygen_scaled" size="10.000000 17.272728" />
+    <ImageTarget name="Files" size="10.000000 17.272728" />
+    <ImageTarget name="cup" size="10.000000 7.000000" />
+    <ImageTarget name="chair3" size="10.000000 5.000000" />
+    <ImageTarget name="chair2" size="10.000000 9.873218" />
+    <ImageTarget name="chair1" size="10.000000 17.272728" />
+    <ImageTarget name="big_1ae1408db2" size="10.000000 10.000000" />
+    <ImageTarget name="Marker-00" size="10.000000 10.000000" />
+    <ImageTarget name="texture-background" size="10.000000 6.667442" />
+  </Tracking>
+</QCARConfig>

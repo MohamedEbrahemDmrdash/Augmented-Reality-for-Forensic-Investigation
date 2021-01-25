@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MarsBoxBottomscaled" size="10.000000 5.000000" />
+    <ImageTarget name="Oxygen_scaled" size="10.000000 17.272728" />
+    <ImageTarget name="Fissure_scaled" size="10.000000 17.272728" />
+    <ImageTarget name="Drone_scaled" size="10.000000 17.272728" />
+    <ImageTarget name="Astronaut_scaled" size="10.000000 17.272728" />
+    <ImageTarget name="1819594" size="10.000000 7.207031" />
+    <ImageTarget name="Immagine4" size="10.000000 9.873218" />
+    <ImageTarget name="download1" size="10.000000 7.014925" />
+    <ImageTarget name="ImageTarget" size="10.000000 13.333333" />
+    <ImageTarget name="example_5-star_grayscale" size="10.000000 7.000000" />
+  </Tracking>
+</QCARConfig>
